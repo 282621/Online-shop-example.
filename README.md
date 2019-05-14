@@ -3,6 +3,7 @@
 
 ## Motivation
 
+I decide to improve my Bootstrap skills by creating this project.
 
 ## Build status
 
