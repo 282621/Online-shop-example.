@@ -3,7 +3,7 @@
 
 ## Motivation
 
-I decide to improve my Bootstrap skills by creating this project.
+I decide to improve my Bootstrap skills by creating this project. 
 
 ## Build status
 
@@ -12,4 +12,4 @@ I decide to improve my Bootstrap skills by creating this project.
 I didn't make code review for this one, so there is possibility for a little chaos in my code. //for now
 
 ## Tech/framework used
-HTML, CSS, JS.
+HTML, CSS, BOOTSTRAP,  JS.
