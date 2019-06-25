@@ -1,4 +1,5 @@
 
+/* Video Backround selectors */
 header {
     position: relative;
     background-color: black;
@@ -39,15 +40,18 @@ header .overlay {
     z-index: 1;
 }
 
+/*Stop playing video on smaller then deskop resolutions - video change to picture*/
 @media (pointer: coarse) and (hover: none) {
     header {
-        background: url('https://source.unsplash.com/XT5OInaElMw/1600x900') black no-repeat center center scroll;
+        background: url('https://images.unsplash.com/photo-1521790797524-b2497295b8a0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=749&q=80') black no-repeat center center scroll;
     }
 
     header video {
         display: none;
     }
 }
+
+/* GoogleMap selectors */
 
 .map-container {
     overflow: hidden;
