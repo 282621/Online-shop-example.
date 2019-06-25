@@ -1,4 +1,4 @@
-## Bootstrap Online Shop Example
+## Bootstrap-website-example
 Bona Spe is a fictional association that deals with running social projects around the world. The goal of the website is to present the projects carried out by the association as well as to create a website that is a kind of showcase in the network.
 
 ## Motivation
