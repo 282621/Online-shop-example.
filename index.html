@@ -20,35 +20,41 @@
 
             <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light ">
                 <a class="navbar-brand" href="#">Xlite</a>
-                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-                <a class="nav-link" href="#">About</a>
-                <a class="nav-link" href="#">Contact</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
                     aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ml-auto">
+                        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="#">About</a>
+                        <a class="nav-link" href="#">Contact</a>
                         <li class="nav-item">
                             <a class="nav-link" href="#"><i class="fas fa-heart"></i></a>
                         </li>
                         <li class="nav-item">
                              <a class="nav-link" href="#"><i class="fas fa-archive"></i></a>
                         </li>
-                        <div class="dropdown">
-                            <button class="btn btn-secondary" type="button" id="dropdownMenuButton" data-toggle="dropdown"
-                                aria-haspopup="true" aria-expanded="false">
-                                <i class="fas fa-ellipsis-h"></i>
-                            </button>
-                            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                <a class="dropdown-item" href="#">Action</a>
-                                <a class="dropdown-item" href="#">Another action</a>
-                                <a class="dropdown-item" href="#">Something else here</a>
-                            </div>
-                        </div>
                     </ul>
                 </div>
             </nav>
+
+            <main>
+                <header>
+                    <div class="overlay"></div>
+                    <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                        <source src="./video/00128.mp4" type="video/mp4">
+                    </video>
+                    <div class="container h-100">
+                        <div class="d-flex h-100 text-center align-items-center">
+                            <div class="w-100 text-white">
+                                <h1 class="display-3">Xlite</h1>
+                                <p class="lead mb-0">We bring the feature!</p>
+                            </div>
+                        </div>
+                    </div>
+                </header>
+            </main>
 
         
         <script src="https://kit.fontawesome.com/6e5f523c50.js"></script>
