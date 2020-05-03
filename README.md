@@ -14,7 +14,7 @@ This site was created to present skills related to CSS with the world’s most p
 -compliance with the RWD rules
 
 ## Build status
-Almost finished (without Jquery).
+Almost finished without Jquery.
 
 ## Code style
 I didn't make code review for this one, so there is possibility for a little chaos in my code. //for now
